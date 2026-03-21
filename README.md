@@ -1,2 +1,3 @@
-# super-recommendation-engine-loys
-A AI-powered recommendation system for modern development workflows
+# Super Recommendation Engine Loys
+
+A AI-powered recommendation system for modern development workflows.
